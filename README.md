@@ -1,4 +1,4 @@
-
+## product-preview-card-component-main
 Este projeto faz parte de um desafio proposto pelo site [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).  
 O objetivo foi recriar o layout fornecido na pasta [`/design`](./design), utilizando apenas **HTML5** e **CSS3**.  
 
@@ -24,6 +24,7 @@ Além disso, este repositório pode ser útil como **referência ou inspiração
 ---
 
 ## 📂 Estrutura de pastas
+---
 ├── design/              # Imagens de referência do desafio
 ├── images/              # Assets usados no projeto
 ├── index.html           # Estrutura HTML
