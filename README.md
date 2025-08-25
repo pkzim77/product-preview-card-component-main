@@ -24,13 +24,13 @@ Além disso, este repositório pode ser útil como **referência ou inspiração
 ---
 
 ## 📂 Estrutura de pastas
----
+```
 ├── design/              # Imagens de referência do desafio
 ├── images/              # Assets usados no projeto
 ├── index.html           # Estrutura HTML
 ├── style.css            # Estilos CSS
 └── README.md
-
+```
 ---
 
 ## ▶️ Como executar o projeto
